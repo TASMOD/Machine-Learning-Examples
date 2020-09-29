@@ -126,3 +126,5 @@ dmypy.json
 kcalData.csv
 
 .DS_Store
+
+*.csv
